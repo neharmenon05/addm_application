@@ -1,4 +1,6 @@
-# addm_application
+# Addm_application
+
+# TITLE:ADMM and Lasso Regression 
 
 # Abstract  
 The project explores the mathematical formulations and real-life applications of Lasso regression 
