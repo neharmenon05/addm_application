@@ -1,8 +1,5 @@
-# Addm_application
+# ADMM and Lasso Regression 
 
-# TITLE:ADMM and Lasso Regression 
-
-# Abstract  
 The project explores the mathematical formulations and real-life applications of Lasso regression 
 and the Alternating Direction Method of Multipliers (ADMM). Lasso regression is an effective 
 technique in handling high dimensional data by imposing regularization. Similarly, ADMM is a 
